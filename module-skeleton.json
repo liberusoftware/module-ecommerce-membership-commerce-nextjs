@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-membership-commerce-nextjs",
+  "capabilityKey": "planned:ecommerce:membership-commerce",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-membership-commerce-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/membership-commerce.md",
+  "presentationPlan": "projects/ecommerce/nextjs/membership-commerce.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
